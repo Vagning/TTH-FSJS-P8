@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Vagning/TTH-FSJS-P8/issues"
   },
-  "homepage": "https://github.com/Vagning/TTH-FSJS-P8#readme"
+  "homepage": "https://github.com/Vagning/TTH-FSJS-P8#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.2"
+  }
 }
