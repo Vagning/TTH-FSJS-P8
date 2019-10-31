@@ -1,0 +1,19 @@
+{
+  "name": "tth-fsjs-p8",
+  "version": "1.0.0",
+  "description": "This is the eighth project of the Full Stack JS Techdegree at Team Treehouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vagning/TTH-FSJS-P8.git"
+  },
+  "author": "THV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vagning/TTH-FSJS-P8/issues"
+  },
+  "homepage": "https://github.com/Vagning/TTH-FSJS-P8#readme"
+}
